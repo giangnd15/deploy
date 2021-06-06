@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](http://badges.mit-license.org)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/giangnd15/deploy/blob/main/LICENSE)
 
 # Hello, world!
 
